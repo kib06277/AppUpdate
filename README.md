@@ -1,7 +1,7 @@
 # AppUpdate
  APP 應用程序更新
 
-//app 本地更新以下為相關技術參考網站
+//app 本地更新以下為相關技術參考網站 <br>
 https://blog.csdn.net/a497785609/article/details/113896609 <br>
 https://cloud.tencent.com/developer/article/1743416 <br>
 https://medium.com/@vishtech36/installing-apps-programmatically-in-android-10-7e39cfe22b86 <br>
