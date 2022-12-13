@@ -25,7 +25,7 @@ class UpdateManager(private val mContext: Context) {
     private var intercept = false
 
     // 下载安装包的网络路径
-    private val apkUrl = ("http://122.146.250.130/TPMC_BID/Scripts/app-debug.apk")
+    private val apkUrl = ("http://122.146.250.130/TPMC_BID/Scripts/app-debugtoKotlin.apk")
 
     // 保存APK的文件夹
     private val savePath = mContext.externalCacheDir?.path
